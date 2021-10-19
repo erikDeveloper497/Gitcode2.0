@@ -1,0 +1,22 @@
+{
+  "name": "gitcode2.0",
+  "version": "2.0.0",
+  "description": "Access a data between nodejs & mongo Atlas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pierre2021/GitCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pierre2021/GitCode/issues"
+  },
+  "homepage": "https://github.com/Pierre2021/GitCode#readme",
+  "dependencies": {
+    "mongoose": "^6.0.11"
+  }
+}
